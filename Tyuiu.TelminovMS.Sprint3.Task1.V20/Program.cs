@@ -12,12 +12,12 @@ namespace Tyuiu.TelminovMS.Sprint3.Task1.V20
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Оператор цикла for                                                *");
-            Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #25                                                             *");
+            Console.WriteLine("* Задание #1                                                              *");
+            Console.WriteLine("* Вариант #20                                                             *");
             Console.WriteLine("* Выполнил: Тельминов Максим Сергеевич | ИСТНб-26-1                       *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу используя цикл for, которая вычисляет сумму ряда по  *");
+            Console.WriteLine("* Написать программу используя цикл while, которая вычисляет сумму ряда по*");
             Console.WriteLine("* формуле                                                                 *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
