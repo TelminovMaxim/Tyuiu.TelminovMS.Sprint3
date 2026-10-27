@@ -12,7 +12,7 @@ namespace Tyuiu.TelminovMS.Sprint3.Task0.V25.Lib
             {
                 count += Math.Pow((4 / (1 + Math.Pow(value, i))), i);
             }
-            return count;
+            return Math.Round(count, 2);
         }
     }
 }

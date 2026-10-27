@@ -14,7 +14,7 @@ namespace Tyuiu.TelminovMS.Sprint3.Task0.V25.Test
             int startValue = 1;
             int stopValue = 14;
 
-            double res = Math.Round(ds.GetSumSeries(value, startValue, stopValue), 2);
+            double res = ds.GetSumSeries(value, startValue, stopValue);
 
             double wait = 0.69;
 

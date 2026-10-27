@@ -35,7 +35,7 @@ namespace Tyuiu.TelminovMS.Sprint3.Task0.V25
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            var res = Math.Round(ds.GetSumSeries(value, startValue, stopValue), 2);
+            var res = ds.GetSumSeries(value, startValue, stopValue);
 
             Console.WriteLine(res);
 
