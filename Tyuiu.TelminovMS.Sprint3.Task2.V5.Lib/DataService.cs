@@ -9,7 +9,7 @@ namespace Tyuiu.TelminovMS.Sprint3.Task2.V5.Lib
             double sumSeries = 0;
             do
             {
-                sumSeries += Math.Pow(value, startValue) * Math.Cos(startValue);
+                sumSeries += (Math.Pow(value, startValue) + 1) * Math.Cos(startValue);
                 startValue++;
             } while (startValue <= stopValue);
 
