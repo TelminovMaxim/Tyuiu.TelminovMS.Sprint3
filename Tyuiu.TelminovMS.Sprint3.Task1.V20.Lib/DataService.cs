@@ -16,7 +16,7 @@ namespace Tyuiu.TelminovMS.Sprint3.Task1.V20.Lib
                 startValue++;
             }
 
-            return Math.Round(sumSeries, 2);
+            return Math.Round(sumSeries, 3);
         }
     }
 }
